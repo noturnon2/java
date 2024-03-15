@@ -1,11 +1,15 @@
-Bruno Aloise
-Marcília Cezar
-Luiz Cardineli
-Flavio Sabino
+> [!NOTE]
+> # Projeto Tabela Brasileirão
 
-Trabalho de Atividade Supervisionada apresentado ao Centro Universitário Carioca, como requisito parcial para obtenção do grau de Linguagem de Programação III.
+*Autores:*
+1. Bruno Aloise
+2. Marcília Cezar
+3. Luiz Cardineli
+4. Flavio Sabino
 
-*Resumo*
+## Trabalho de Atividade Supervisionada apresentado ao Centro Universitário Carioca, como requisito parcial para obtenção do grau de Linguagem de Programação III.
+
+### Resumo
 
 
 Este trabalho visa apresentar um código que mostre o funcionamento de uma API na linguagem de programação Java.
