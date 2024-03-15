@@ -1,0 +1,52 @@
+public Object[][] livro(Object[][] resultado, String Time, String Item, int x) {
+
+           
+        int Lin = resultado.length;
+        
+        for (i = 1; i < Lin; i++) {
+                
+                if (resultado[i][1].equals(Time)){            
+                    
+        switch( Item )
+        {
+            case "P":
+            resultado[i][3] = x;  
+            break;   
+                
+            case "J":
+            resultado[i][4]= x;
+            break;
+                
+            case "V":
+                
+            resultado[i][5]= x;
+            break;    
+                
+            case "E":
+            resultado[i][6]= x;
+            break;   
+                
+            case "D":
+            resultado[i][7]= x;
+            break;
+                
+            case "GP":
+            resultado[i][8]= x;
+            break;   
+            
+            case "GC":
+            resultado[i][9]= x;
+            break;   
+                
+            case "SG":
+            resultado[i][10]= x;               
+            break;
+                
+            default:
+                System.out.println("Você não digitou correto");      
+            
+        }                      
+            }
+                }
+        return resultado;
+    }
